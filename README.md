@@ -38,6 +38,3 @@ python >= 3.8 以上环境
 
 `python ocr_server.py`
 
-知识星球搜索ID： 4198635
-
-赶快来加入我们吧
